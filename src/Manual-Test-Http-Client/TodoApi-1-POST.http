@@ -1,0 +1,7 @@
+POST https://localhost:53135/api/TodoItems HTTP/1.1
+content-type: application/json
+
+{
+    "name": "Caminhar com o cachorro e alimentar o peixe",
+    "isComplete": false
+}
